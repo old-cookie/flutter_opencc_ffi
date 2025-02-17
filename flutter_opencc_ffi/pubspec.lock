@@ -65,10 +65,9 @@ packages:
   flutter_opencc_ffi_android:
     dependency: "direct main"
     description:
-      name: flutter_opencc_ffi_android
-      sha256: "975aa914a11ace4af6f21573da990b16bd693d7d0c7e29faddf47f6198919c46"
-      url: "https://pub.dev"
-    source: hosted
+      path: "../flutter_opencc_ffi_android"
+      relative: true
+    source: path
     version: "0.0.3"
   flutter_opencc_ffi_ios:
     dependency: "direct main"
