@@ -1,3 +1,0 @@
-[submodule "opencc_library/OpenCC"]
-	path = opencc_library/OpenCC
-	url = https://github.com/BYVoid/OpenCC.git
